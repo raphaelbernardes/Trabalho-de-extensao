@@ -5,7 +5,9 @@
 Importante ressaltar que é um trabalho criado para prova de conceito, varios tratamentos e implementações são necessárias para a correta e segura utilização do mesmo.
 Fique a vontade para dar sugestões e ideias.
 
-Para compilar o servidor: gcc -o server Servidor.c 
+Para compilar o servidor: 
+
+´´´gcc -o server Servidor.c´´´ 
 
 Para executar o Cliente: flet run main.py --android 
 
