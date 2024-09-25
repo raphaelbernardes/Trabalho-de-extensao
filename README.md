@@ -7,11 +7,15 @@ Fique a vontade para dar sugestões e ideias.
 
 Para compilar o servidor: 
 
-´´´gcc -o server Servidor.c´´´ 
+ `gcc -o server Servidor.c`
 
-Para executar o Cliente: flet run main.py --android 
+Para executar o Cliente: 
 
-Caso não possua o Flet basta instalar: pip install flet
+`flet run main.py --android` 
+
+Caso não possua o Flet basta instalar: 
+
+`pip install flet`
 
 -------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------
