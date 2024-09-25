@@ -41,10 +41,10 @@ Benefícios:
 
 Desenvolvimento:
 
-1 - Levantamento de requisitos: Foram identificadas as informações essenciais a serem coletadas durante o exame.
-2 - Desenvolvimento da API: A API em C foi desenvolvida para receber os dados do aplicativo móvel e armazená-los em um arquivo.
-3 - Desenvolvimento do aplicativo: Um aplicativo móvel intuitivo foi criado para facilitar a coleta de dados pelo médico legista.
-4 - Integração: A API e o aplicativo foram integrados, permitindo a transmissão dos dados em tempo real.
+* Levantamento de requisitos: Foram identificadas as informações essenciais a serem coletadas durante o exame.
+* Desenvolvimento da API: A API em C foi desenvolvida para receber os dados do aplicativo móvel e armazená-los em um arquivo.
+* Desenvolvimento do aplicativo: Um aplicativo móvel intuitivo foi criado para facilitar a coleta de dados pelo médico legista.
+* Integração: A API e o aplicativo foram integrados, permitindo a transmissão dos dados em tempo real.
 
 Resultados:
 
