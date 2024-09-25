@@ -24,9 +24,9 @@ O trabalho visou otimizar a coleta de dados em exames médico-legais realizados 
 Problema:
 
 A coleta manual de dados em papel durante exames "in loco" apresentava diversos problemas, como:
-. Falta de praticidade: Dificuldade em transportar e armazenar os dados.
-. Vulnerabilidade: Os dados estavam sujeitos a danos por fatores climáticos e perda.
-. Retrabalho: Os dados precisavam ser digitados manualmente no sistema, gerando erros e consumindo tempo.
+* Falta de praticidade: Dificuldade em transportar e armazenar os dados.
+* Vulnerabilidade: Os dados estavam sujeitos a danos por fatores climáticos e perda.
+* Retrabalho: Os dados precisavam ser digitados manualmente no sistema, gerando erros e consumindo tempo.
 
 Solução:
 
@@ -34,10 +34,10 @@ Foi desenvolvida uma API em C que atua como servidor, recebendo os dados coletad
 
 Benefícios:
 
-. Agilidade: Diminuição do tempo de coleta e registro dos dados.
-. Precisão: Redução de erros na transcrição dos dados.
-. Segurança: Proteção dos dados contra perda e danos.
-. Integração: Facilidade na integração dos dados com o sistema centralizado.
+* Agilidade: Diminuição do tempo de coleta e registro dos dados.
+* Precisão: Redução de erros na transcrição dos dados.
+* Segurança: Proteção dos dados contra perda e danos.
+* Integração: Facilidade na integração dos dados com o sistema centralizado.
 
 Desenvolvimento:
 
